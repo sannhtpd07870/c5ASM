@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3warrjHhNCtkQcDB4uJa49pcA7UHIvhtK5DKc2P4BHg=",
+  "Source": "ASM.Server",
+  "BasePath": "_content/ASM.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\asm.client\\asm.client.esproj",
+      "Version": 2,
+      "Source": "asm.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

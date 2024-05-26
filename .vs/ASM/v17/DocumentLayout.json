@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Migrations\\20240524074431_ASM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASM.Server\\Migrations\\20240524074431_ASM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\asm.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\asm.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|d:\\hk_summer_2024\\block_1\\c# 5\\asm\\asm.server\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715132AA-1923-4CEE-9CA0-7C67E88D48AE}|ASM.Server\\ASM.Server.csproj|solutionrelative:asm.server\\models\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240524074431_ASM.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Migrations\\20240524074431_ASM.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Migrations\\20240524074431_ASM.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Migrations\\20240524074431_ASM.cs",
+              "RelativeToolTip": "ASM.Server\\Migrations\\20240524074431_ASM.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:44:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\Review.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Review.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\Review.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:35:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\Customer.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Customer.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:34:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Program.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Program.cs",
+              "RelativeToolTip": "ASM.Server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ASM.Server\\appsettings.json",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\appsettings.json",
+              "RelativeToolTip": "ASM.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T07:30:19.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\WeatherForecast.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "ASM.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:19.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:26:14.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\Order.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Order.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:25:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Combo.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\Combo.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\Combo.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\Combo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:23:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\FoodItem.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\FoodItem.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:22:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ASM.Server\\Models\\User.cs",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\Models\\User.cs",
+              "RelativeToolTip": "ASM.Server\\Models\\User.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:21:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASM.Server",
+              "DocumentMoniker": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\ASM.Server.csproj",
+              "RelativeDocumentMoniker": "ASM.Server\\ASM.Server.csproj",
+              "ToolTip": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\ASM.Server.csproj",
+              "RelativeToolTip": "ASM.Server\\ASM.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T07:21:13.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

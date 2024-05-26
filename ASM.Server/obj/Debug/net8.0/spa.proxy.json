@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\HK_SUMMER_2024\\Block_1\\C# 5\\ASM\\ASM.Server\\..\\asm.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
